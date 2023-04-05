@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header-bg{
+    background: #E3FFE6;
+    background-image: url('/src/img/background.svg');
+    background-position: center;
+    background-size: cover;
+}
